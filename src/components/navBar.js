@@ -8,7 +8,7 @@ import Navbar from 'react-bootstrap/Navbar';
 const NavBar = () => {
     return ( 
 
-        <div className="mt-lg-2 mt-sm-3 "style={{marginRight: '20px', marginLeft: '20px',marginBottom:'5%'}}>
+        <div style={{marginRight: '20px', marginLeft: '20px'}}>
             <Navbar expand="lg" >
       <Container fluid>
         <Navbar.Brand href="#" style={{fontSize: '1.5rem'}}>ferhad baaqieel</Navbar.Brand>

@@ -9,7 +9,7 @@ import bootstrap from '../assets/bootstrap.png';
 
 const HeroSection = () => {
     return (
-        <Container  className="container d-flex justify-content-center align-items-center" style={{ minHeight: '85vh' }}>
+        <Container className="container d-flex justify-content-center align-items-center" style={{ minHeight: '85vh' }}>
             <Row style={{ marginBottom: '1.5rem' }}>
                 <Col className='text-center'>
                     <h1>ferhad baaqieel</h1>
